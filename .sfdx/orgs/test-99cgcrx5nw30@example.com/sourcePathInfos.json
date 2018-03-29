@@ -1,0 +1,1893 @@
+[
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1520543988000,
+            "changeTime": 1520605747000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1520543988000,
+            "changeTime": 1520605747000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "1cd1fa48ded7afff1f7d0b4a49795011726c22bb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 510,
+            "modifiedTime": 1521492981000,
+            "changeTime": 1521492981000,
+            "contentHash": "7fb47aebdf88f501e3ff2dc834421fb985194989",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/defaultTokens",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520977854000,
+            "changeTime": 1520977854000,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 1170,
+            "modifiedTime": 1520977854000,
+            "changeTime": 1520977854000,
+            "contentHash": "fd59f7da67f661b1f4c8feccf4efb522a1da3d3b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520977854000,
+            "changeTime": 1520977854000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1520891451000,
+            "changeTime": 1520891451000,
+            "contentHash": "b60ec6f94bc58c8864c6e3f44f430bf085471454",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landing.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landing.cmp",
+            "isDirectory": false,
+            "size": 3797,
+            "modifiedTime": 1521662358000,
+            "changeTime": 1521662358000,
+            "contentHash": "5db0d3b4b30fbbc58798ff2d41aa1d6551f0733d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landing.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landing.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520545176000,
+            "changeTime": 1520605754000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landingController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landingController.js",
+            "isDirectory": false,
+            "size": 540,
+            "modifiedTime": 1521661853000,
+            "changeTime": 1521661853000,
+            "contentHash": "53932d49955ea23033a5d60eae6f2897a964fe37",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landingHelper.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/landing/landingHelper.js",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1520892911000,
+            "changeTime": 1520892911000,
+            "contentHash": "b0ac09420a3f0c142782ecbf17a8eee07fa91e06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/lightningOut",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/lightningOut",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520610673000,
+            "changeTime": 1520610673000,
+            "contentHash": "62bd950ccd4d2c7811751c67a43b783d0bdc4c3d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/lightningOut/lightningOut.app",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/lightningOut/lightningOut.app",
+            "isDirectory": false,
+            "size": 128,
+            "modifiedTime": 1521661528000,
+            "changeTime": 1521661528000,
+            "contentHash": "505de46510498430c8042d49b192f98537e7140c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/lightningOut/lightningOut.app-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/lightningOut/lightningOut.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520610673000,
+            "changeTime": 1520610673000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1520545276000,
+            "changeTime": 1520605754000,
+            "contentHash": "a4d7018f0c3e9ba901cd5c4d40e7c96d59348a39",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/section.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/section.cmp",
+            "isDirectory": false,
+            "size": 176,
+            "modifiedTime": 1520614407000,
+            "changeTime": 1520614407000,
+            "contentHash": "b6dfc372ebb6ddc19ebee1f4638d5a42571d2a33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/section.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/section.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520545276000,
+            "changeTime": 1520605754000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/sectionController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/sectionController.js",
+            "isDirectory": false,
+            "size": 76,
+            "modifiedTime": 1520609440000,
+            "changeTime": 1520609440000,
+            "contentHash": "d9a9e48dd8e6ee10d7de1baf0643febeb61b8353",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/sectionHelper.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/section/sectionHelper.js",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1520545276000,
+            "changeTime": 1520605755000,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "dcd8edb61da1ce2b16d3e8a742769a73e3eb9aa4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStep.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStep.cmp",
+            "isDirectory": false,
+            "size": 1579,
+            "modifiedTime": 1521468885000,
+            "changeTime": 1521468885000,
+            "contentHash": "44e6a5dd1c38691803e5e91fe4b7f89a07eb571f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStep.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStep.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1521468885000,
+            "changeTime": 1521468885000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStepController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStepController.js",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1521468885000,
+            "changeTime": 1521468885000,
+            "contentHash": "7ec576953153f39f3833bebf318a3b7eaa6b230b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1521474577000,
+            "changeTime": 1521474577000,
+            "contentHash": "af67e658e277a40e3f4cc0d87fab61a6819812cc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistant.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistant.cmp",
+            "isDirectory": false,
+            "size": 7759,
+            "modifiedTime": 1521733243000,
+            "changeTime": 1521733243000,
+            "contentHash": "da29d2c813c3eb0b67ae8249c27fd5273ed6a074",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistant.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistant.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520544836000,
+            "changeTime": 1520605755000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistant.css",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistant.css",
+            "isDirectory": false,
+            "size": 25535,
+            "modifiedTime": 1521474236000,
+            "changeTime": 1521474236000,
+            "contentHash": "b4138d375e2244ebd1d7806959aa7fd1655a1855",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistantController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistantController.js",
+            "isDirectory": false,
+            "size": 3304,
+            "modifiedTime": 1521661653000,
+            "changeTime": 1521649595000,
+            "contentHash": "064dd4526d4fde562cf6cdec6744f5e78ad8b3d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistantHelper.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/setupAssistant/setupAssistantHelper.js",
+            "isDirectory": false,
+            "size": 5233,
+            "modifiedTime": 1521750608000,
+            "changeTime": 1521750608000,
+            "contentHash": "38a7e5ce6bb49b4706c97bce4b435923180bac83",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1520611600000,
+            "changeTime": 1520611600000,
+            "contentHash": "bdda956266fb18402f51da1592f0cf0b613c6b16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step/step.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step/step.cmp",
+            "isDirectory": false,
+            "size": 472,
+            "modifiedTime": 1521479715000,
+            "changeTime": 1521479715000,
+            "contentHash": "76a9ab1af9ff7002fcd83ee242dc837da5cd4f40",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step/step.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step/step.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520610673000,
+            "changeTime": 1520610673000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step/stepController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/step/stepController.js",
+            "isDirectory": false,
+            "size": 1116,
+            "modifiedTime": 1521835860000,
+            "changeTime": 1521643748000,
+            "contentHash": "b595d3bbac724f735ec9d7cc0f4ff1ab1d59d8df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/strikeConnectEvent",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/strikeConnectEvent",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1520884823000,
+            "changeTime": 1520884823000,
+            "contentHash": "8e8e55412f8f8ff5737aa0e23821a5409ea59a82",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/strikeConnectEvent/strikeConnectEvent.evt",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/strikeConnectEvent/strikeConnectEvent.evt",
+            "isDirectory": false,
+            "size": 126,
+            "modifiedTime": 1520884823000,
+            "changeTime": 1520884823000,
+            "contentHash": "d6916b3e9be6fa505915a2f64e2f8ba2503282c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/strikeConnectEvent/strikeConnectEvent.evt-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/strikeConnectEvent/strikeConnectEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1520884823000,
+            "changeTime": 1520884823000,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1521474901000,
+            "changeTime": 1521474901000,
+            "contentHash": "7a199923d3c77fb8ae2d7f148f620fcd9a6e2f62",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/pages/test.page",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/pages/test.page",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1520892260000,
+            "changeTime": 1520892260000,
+            "contentHash": "badb88cc957d0dc6a496b7497bed4dd98cfb2975",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/pages/test.page-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/pages/test.page-meta.xml",
+            "isDirectory": false,
+            "size": 280,
+            "modifiedTime": 1520610673000,
+            "changeTime": 1520610673000,
+            "contentHash": "437e14b3ebbf5c66a8feafd2d0e9994f95344034",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1520610673000,
+            "changeTime": 1520610673000,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2702,
+            "modifiedTime": 1521821034000,
+            "changeTime": 1521821034000,
+            "contentHash": "069ade5f66ffc37a4c9929064bb16c948dfb803e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1521835615000,
+            "changeTime": 1520605747000,
+            "contentHash": "4b638fcf3f7256a765638a030aafae2579a68f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1521475872000,
+            "changeTime": 1521475872000,
+            "contentHash": "b4d576b0d2cddfc723f091ec21f7b893f029036c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/domainStep",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/domainStep",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521475772000,
+            "changeTime": 1521475772000,
+            "contentHash": "5d9ba434989d837da4b2a6903a099bca2ae4832d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep/actionkitConnectStep.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep/actionkitConnectStep.cmp",
+            "isDirectory": false,
+            "size": 1915,
+            "modifiedTime": 1521661422000,
+            "changeTime": 1521661422000,
+            "contentHash": "3cf45dee6e4f72b49e77aa5925d8e07c5be4811d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep/actionkitConnectStep.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep/actionkitConnectStep.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1521475854000,
+            "changeTime": 1521475855000,
+            "contentHash": "33ad76dae8342e9d0a6038b22245dfe23a5f94ca",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep/actionkitConnectStepController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/actionkitConnectStep/actionkitConnectStepController.js",
+            "isDirectory": false,
+            "size": 2332,
+            "modifiedTime": 1521649627000,
+            "changeTime": 1521649627000,
+            "contentHash": "f4c9c586b079dc4ea3a2fdf5bba5525275454a98",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/domainStep/domainStep.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/domainStep/domainStep.cmp",
+            "isDirectory": false,
+            "size": 1510,
+            "modifiedTime": 1521493665000,
+            "changeTime": 1521493665000,
+            "contentHash": "7f378dcfcd6dd0b5a6680f754b2f8c6c3145b384",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/domainStep/domainStep.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/domainStep/domainStep.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1521475749000,
+            "changeTime": 1521475750000,
+            "contentHash": "14f0de44e9f22c55e30d665cce6aaa3df57c6990",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/setupAssistant.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/setupAssistant.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521476338000,
+            "changeTime": 1521476338000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/setupAssistant.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/setupAssistant.cls",
+            "isDirectory": false,
+            "size": 1614,
+            "modifiedTime": 1521750094000,
+            "changeTime": 1521750094000,
+            "contentHash": "5603b40cd39556e0214243edae5df4d08b4102eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 748,
+            "modifiedTime": 1521821746000,
+            "changeTime": 1521821746000,
+            "contentHash": "95bd36f168e7aa21ac720998964171fd99425e71",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 21065,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "ef59b5016f8d2f5e8417201a4d2bcce1ee99b10a"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Settings__c",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Settings__c",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "b5605a67342c25062335518b883364ef0a15cb9a"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Settings__c/fields",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Settings__c/fields",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521477085000,
+            "changeTime": 1521477085000,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1521489902000,
+            "changeTime": 1521489902000,
+            "contentHash": "31d15f24d554d218ba980a64197c4fa70cab7c68",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStep.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStep.cmp",
+            "isDirectory": false,
+            "size": 1429,
+            "modifiedTime": 1521493190000,
+            "changeTime": 1521493190000,
+            "contentHash": "a7b0aecd88716bb50517805e0bc50c26d6c03c0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStep.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStep.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1521489875000,
+            "changeTime": 1521489875000,
+            "contentHash": "f97965b4e2b29f4944d4a066114de2f086ad8cab",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStepController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStepController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1521489875000,
+            "changeTime": 1521489875000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStepHelper.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/salesforceConnectStep/salesforceConnectStepHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1521489875000,
+            "changeTime": 1521489875000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1521496712000,
+            "changeTime": 1521496712000,
+            "contentHash": "829cd5e585b6f70f673cc5b12f57b72ecff942b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep/donationStep.cmp",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep/donationStep.cmp",
+            "isDirectory": false,
+            "size": 2432,
+            "modifiedTime": 1521836092000,
+            "changeTime": 1521836092000,
+            "contentHash": "d601cb001ed3134bb99154563d43d9f19872d8af",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep/donationStep.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep/donationStep.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1521492956000,
+            "changeTime": 1521492956000,
+            "contentHash": "9921b835029e0219b9572db826d4533ae070ee36",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/donationStep.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/donationStep.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521496630000,
+            "changeTime": 1521496630000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/donationStep.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/donationStep.cls",
+            "isDirectory": false,
+            "size": 850,
+            "modifiedTime": 1521645796000,
+            "changeTime": 1521645796000,
+            "contentHash": "46af5419a70a6949741812b1e8bd3efb338a1bbb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep/donationStepController.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/donationStep/donationStepController.js",
+            "isDirectory": false,
+            "size": 681,
+            "modifiedTime": 1521643569000,
+            "changeTime": 1521643569000,
+            "contentHash": "0978a9d094c7064fcd8059a76c9b9d06f35919f0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStepRenderer.js",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/aura/sectionEndStep/sectionEndStepRenderer.js",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "47ae81188f147bc67954bce214fbb48188d22546",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/Setup_Assistant_Keys__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/Setup_Assistant_Keys__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 289,
+            "modifiedTime": 1521733251000,
+            "changeTime": 1521733251000,
+            "contentHash": "54db53b4978ce25a301ed3a8ac25752c067bda7b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/fields/Password__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/fields/Password__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "69ff8d6b73319a7e4ba70e100efd851df733c49e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/fields/Username__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/fields/Username__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "a32fe39ad458ef7c91d3ddd4179c86b0992400b2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/constants.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/constants.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/constants.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/constants.cls",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1521813717000,
+            "changeTime": 1521813717000,
+            "contentHash": "0e83adbd558f50beda6450cb7471f7495535f118",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "c7f75455814e51bb9ed2baafda888878d5782742",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/fields",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Keys__c/fields",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521563510000,
+            "changeTime": 1521563510000,
+            "contentHash": "65d50f3c55e1557994cc97224164d5d037b45e85",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/responseData.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/responseData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521563662000,
+            "changeTime": 1521563662000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/responseData.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/responseData.cls",
+            "isDirectory": false,
+            "size": 719,
+            "modifiedTime": 1521643569000,
+            "changeTime": 1521643569000,
+            "contentHash": "4fe81192fcd196cf4d9ad0dac837abbc10a9b0f3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/utilities.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/utilities.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521564900000,
+            "changeTime": 1521564900000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/utilities.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/utilities.cls",
+            "isDirectory": false,
+            "size": 1654,
+            "modifiedTime": 1521736474000,
+            "changeTime": 1521736474000,
+            "contentHash": "da79a009fe07b58569aad1d59526582c1b73765f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/Setup_Assistant_Data__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/Setup_Assistant_Data__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2114,
+            "modifiedTime": 1521644190000,
+            "changeTime": 1521644190000,
+            "contentHash": "ce0c64e1e966d24c3c0c1c5cbc11b1e59f61c075",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Domain__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Domain__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1521644190000,
+            "changeTime": 1521644190000,
+            "contentHash": "fdf611bc0d4de64542cda09c3b21e1726d0d9dc0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Donation_Stage_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Donation_Stage_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 384,
+            "modifiedTime": 1521644190000,
+            "changeTime": 1521644190000,
+            "contentHash": "6c71840bf644148f633f507c9f73136beed260ff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Steps_Completed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Steps_Completed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1521644190000,
+            "changeTime": 1521644190000,
+            "contentHash": "c2960da68ed8faa91ed371d4536f111d4d4df484",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Setup_Assistant_Data__c-Setup Assistant Data Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Setup_Assistant_Data__c-Setup Assistant Data Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2524,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "44f049efdc91d411363e7225d7164beb367b3e9b"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/actionkitConnectStep.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/actionkitConnectStep.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521644190000,
+            "changeTime": 1521644190000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/actionkitConnectStep.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/actionkitConnectStep.cls",
+            "isDirectory": false,
+            "size": 1034,
+            "modifiedTime": 1521649958000,
+            "changeTime": 1521649958000,
+            "contentHash": "e9114924aa3b6616ab424cebb796ca66765c9524",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521644190000,
+            "changeTime": 1521644190000,
+            "contentHash": "7b205777d33e4d4466da3462282ec88eef2f7681",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "fc6dea15b1174b2aacc78063dfadcedcc7f6e6c8"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 646,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "a8a1587c7ff740ca998f9e3a9936aaabc4b6daaf"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1521821419000,
+            "changeTime": 1521821419000,
+            "contentHash": "fc559dc4df366e10ca98291bcc5649cb4ccde3ac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields/ActionKit_Opt_In__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields/ActionKit_Opt_In__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "267badb8cb87b03f7f18e6a3937a65c22fc9506f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields/From_ActionKit__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields/From_ActionKit__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "b3251d5a3d0cbf90fa691165d4ecdb33fa52f51e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/validationRules/Keep_ActionKit_Opt_In.validationRule-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/validationRules/Keep_ActionKit_Opt_In.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 417,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "538d4612cadda4cc54cda0eb469fe117f3d67b55",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9610,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "7fdd52990ab9ca32acfa4d3ff07577f97baf0ef2"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9901,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "c689772a6b39dabdb8b2872ff9ee708d8f11d537"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9901,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "5a257509bf1a40df7bd00459fa525436f3fc5706"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9925,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "f9d0785d5ecc96b431c629a55cb8072abd773275"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/dataSendHelper.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/dataSendHelper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/dataSendHelper.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/dataSendHelper.cls",
+            "isDirectory": false,
+            "size": 1165,
+            "modifiedTime": 1521837344000,
+            "changeTime": 1521837344000,
+            "contentHash": "3af32ca0aaa49163a1a0563ad49a62ff3a508388",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/remoteSiteSettings/ActionKit.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/remoteSiteSettings/ActionKit.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 266,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "bafc70fc44dd6a60d897eaf7956534297c1a62ea",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "24d554d0f6c95959d27bac53e89b2f9617d9acd3"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "c5969b9c985ca395a81da87a6334b04dd42cfe9f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/validationRules",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/validationRules",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "843beecc0a5d800a4a151ca7f1b7a5e038c0e2b2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1521814104000,
+            "changeTime": 1521814104000,
+            "contentHash": "a469db08a5a015e31ce30e01d045474b63fac88e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/recurringDonationTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/recurringDonationTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 335,
+            "modifiedTime": 1521821034000,
+            "changeTime": 1521821034000,
+            "contentHash": "704bfce5ea828dffb8bc3c4ccd2d80fdb714f6c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/recurringDonationTrigger.trigger",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/recurringDonationTrigger.trigger",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1521823003000,
+            "changeTime": 1521823003000,
+            "contentHash": "d6f4400e26bed4e9013da0c5b6e5b063cfa2463a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/contactTriggerHelper.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/contactTriggerHelper.cls",
+            "isDirectory": false,
+            "size": 3742,
+            "modifiedTime": 1521836709000,
+            "changeTime": 1521836709000,
+            "contentHash": "c57cb8cbadc6b0ede21f2b20b7abe812164290ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/contactTriggerHelper.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/contactTriggerHelper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1521821280000,
+            "changeTime": 1521821280000,
+            "contentHash": "fe6f60d43178f6faac7a7dc9a5bd72657b4342cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/contactTrigger.trigger",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/contactTrigger.trigger",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1521822977000,
+            "changeTime": 1521822977000,
+            "contentHash": "4c23ced9bec059163d58e81836c65f1d26b94acb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/contactTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/contactTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1521821330000,
+            "changeTime": 1521821330000,
+            "contentHash": "ca4016dd46f9f6df90d11949ff818c91af9ca352",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/opportunityTriggerHelper.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/opportunityTriggerHelper.cls",
+            "isDirectory": false,
+            "size": 2359,
+            "modifiedTime": 1521836347000,
+            "changeTime": 1521836347000,
+            "contentHash": "d506b7c5d957faddf3fa94397021c928a5a8f84d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/opportunityTriggerHelper.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/opportunityTriggerHelper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1521821732000,
+            "changeTime": 1521821732000,
+            "contentHash": "0805b666f91de84952bd1b49e4b191e4b6f7207f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/recurringDonationTriggerHelper.cls",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/recurringDonationTriggerHelper.cls",
+            "isDirectory": false,
+            "size": 2292,
+            "modifiedTime": 1521831280000,
+            "changeTime": 1521831280000,
+            "contentHash": "b989d07c9ab1e4a7df17430dcd0cbf79d7bb70c8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/recurringDonationTriggerHelper.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/classes/recurringDonationTriggerHelper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1521821746000,
+            "changeTime": 1521821746000,
+            "contentHash": "f4a5888c8cfb283a99a973302f81b4d8807535c0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/opportunityTrigger.trigger",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/opportunityTrigger.trigger",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1521823025000,
+            "changeTime": 1521823025000,
+            "contentHash": "dfd09bf52c91c673ef39a7f6f8570dc1799117fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/opportunityTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/triggers/opportunityTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1521821419000,
+            "changeTime": 1521821420000,
+            "contentHash": "ec243059fce567d14410a5e1e19474b13443a4cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Refund_Stage_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Setup_Assistant_Data__c/fields/Refund_Stage_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "1ff20c2457a1a2818e805bc6324af4ce6c271a2b"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity/fields/ActionKit_Id__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity/fields/ActionKit_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "6e266b32af058928cef1f064e9cde9424ab65c12"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity/fields/From_ActionKit__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity/fields/From_ActionKit__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "11735030f3acb80609858bb2f45b122a80caa2ee"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c/fields/ActionKit_Id__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c/fields/ActionKit_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 447,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "9d7c6fa59fae229ae848a9f5e3d7ff1c5b0f9e74"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c/fields/From_ActionKit__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c/fields/From_ActionKit__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "1feb696799c882e76b6748a08bc5bce17426979f"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields/ActionKit_Id__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Contact/fields/ActionKit_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 414,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "86a763add312bed150ed3f6f3d8d96f8196d0d4d"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8623,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "0379e19cd61c02c196ea2c5981a136e1c95cdc05"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8720,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "eafe7b6dcc048350f83e39efd6e38fb586e921bc"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8712,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "c1266dd04e9f3a104730039a78d52a4015e43647"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Major Gift Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Major Gift Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 14884,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "51d853bc6cd9191457a7644b6b677794a3eeb208"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__In-Kind Gift Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__In-Kind Gift Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9441,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "2cc1901da3e537ae81f6d09ade42f26a6ee28d93"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8760,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "7b5aecbfc1168a802898e15398ae00bb109471c1"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Membership Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Membership Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10460,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "228cf0960bbdeaf02882f4a748b50b4d6f45aa6e"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Matching Gift Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Matching Gift Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10768,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "f9f09e66e5f5bc28e8570f6ff369e02044ab21c6"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-npsp__Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Contact-npsp__Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22099,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "5f540c8cf1a833c9edf578d272eab1581bacf251"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/npe03__Recurring_Donation__c-npe03__Recurring Donation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/npe03__Recurring_Donation__c-npe03__Recurring Donation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6165,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "3a94969004b4d8fd801acb5b9c63766fe90e9a54"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Grant Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Grant Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12691,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "a108c878bcfa517f0919856c10e99af9036b5055"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Donation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/layouts/Opportunity-npsp__Donation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12937,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "be7176360641972029dbf0d867afc5b20b484200"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "c8415c72e3c993824d5d751ea8644e8ca5932ba4"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "c8415c72e3c993824d5d751ea8644e8ca5932ba4"
+        }
+    ],
+    [
+        "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spencerhsieh/Dropbox/Strike-Connect-Output/force-app/main/default/objects/npe03__Recurring_Donation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1521838147000,
+            "changeTime": 1521838147000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ]
+]

@@ -1,0 +1,33 @@
+<aura:component extends="c:step" controller="donationStep">
+    <aura:attribute name="title" type="String" default="Donation Settings" access="private"/>
+    <aura:attribute name="description" type="String" default="Select the Opportunity stage that represents a Donation or a Refund" access="private"/>
+
+    <aura:attribute name="stageNames" type="Object[]" default="[]" access="private"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <div class="slds-scope">
+        <h3 class="strike-wizard__step-title">{!v.title}</h3>
+        <p class="strike-wizard__step-description">{!v.description}</p>
+
+        <div class="slds-box slds-theme_default strike-form_stacked slds-form_stacked">
+            <aura:if isTrue="{!not(v.hidden)}">
+                <lightning:select aura:id="required" name="donationStageName" label="Donation Stage Name" value="{!v.data.Donation_Stage_Name__c}">
+                    <aura:iteration items="{!v.stageNames}" var="stageName">
+                        <option disabled="{!stageName.disabled}" value="{!stageName.value}">
+                            {!stageName.label}
+                        </option>
+                    </aura:iteration>
+                </lightning:select>
+
+                <lightning:select aura:id="required" name="refundStageName" label="Refund Stage Name" value="{!v.data.Refund_Stage_Name__c}">
+                    <aura:iteration items="{!v.stageNames}" var="stageName">
+                        <option disabled="{!stageName.disabled}" value="{!stageName.value}">
+                            {!stageName.label}
+                        </option>
+                    </aura:iteration>
+                </lightning:select>
+            </aura:if>
+        </div>
+    </div>
+</aura:component>

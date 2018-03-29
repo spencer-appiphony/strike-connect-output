@@ -1,0 +1,14 @@
+<aura:component extensible="true" abstract="true">
+    <aura:attribute name="data" type="Object"/>
+    <aura:attribute name="name" type="String" required="true"/>
+
+    <aura:attribute name="hidden" type="Boolean" default="true"/>
+
+    <aura:method name="hide" action="{!c.hide}"/>
+    <aura:method name="show" action="{!c.show}"/>
+    <aura:method name="validate" action="{!c.validate}"/>
+
+    <div class="{!if(v.hidden, 'slds-hide', '')}">
+        {!v.body}
+    </div>
+</aura:component>

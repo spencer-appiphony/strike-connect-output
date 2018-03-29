@@ -1,0 +1,37 @@
+<aura:component extends="c:step">
+    <aura:attribute name="title" type="String" default="Domain Settings" access="private"/>
+    <aura:attribute name="description" type="String" default="This is used for syncing data to your ActionKit account" access="private"/>
+
+    <aura:attribute name="leftAddon" type="String" default="https://" access="private"/>
+    <aura:attribute name="rightAddon" type="String" default=".actionkit.com" access="private"/>
+    <aura:attribute name="error" type="Boolean" default="false" access="private"/>
+
+    <div class="slds-scope">
+        <h3 class="strike-wizard__step-title">{!v.title}</h3>
+        <p class="strike-wizard__step-description">{!v.description}</p>
+
+        <!-- Help Info -->
+        <div class="slds-m-bottom_large">
+            <div class="strike-notify slds-notify slds-notify_toast slds-theme_info" role="alert">
+                <span class="slds-assistive-text">Info</span>
+                <span class="slds-icon_container slds-icon-utility-info slds-m-right_small slds-no-flex slds-align-top" title="Info">
+                    <lightning:icon iconName="utility:info" size="small" variant="inverse"/>
+                </span>
+                <div class="slds-notify__content">
+                    <p>Example: https://subdomain.actionkit.com</p>
+                </div>
+            </div>
+        </div>
+        <!-- /Help Info -->
+
+        <div class="slds-box slds-theme_default strike-form_stacked slds-form_stacked">
+            <aura:if isTrue="{!not(v.hidden)}">
+                <lightning:input aura:id="required"
+                    value="{!v.data.Domain__c}"
+                    type="text" name="domain"
+                    label="ActionKit Domain"
+                    required="true"/>
+            </aura:if>
+        </div>
+    </div>
+</aura:component>

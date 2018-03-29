@@ -1,0 +1,46 @@
+<aura:component >
+    <!-- Help -->
+    <div class="strike-help slds-box slds-m-top_large slds-theme_default">
+        <!-- Header -->
+        <div class="strike-help__header">
+            <div class="slds-grid slds-grid_pull-padded slds-wrap">
+                <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-horizontal_small">
+                    <h3 class="slds-text-heading_medium">Contact</h3>
+                </div>
+                <div class="strike-help__contact-info slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-horizontal_small">
+                    <div class="slds-grid slds-grid_pull-padded slds-wrap">
+                        <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-horizontal_small slds-m-top_xx-small">
+                            <p>Call &bull; 1-555-555-5555</p>
+                        </div>
+                        <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-horizontal_small slds-m-top_xx-small">
+                            Email &bull;
+                            <a href="#">example@example.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Header -->
+        
+        <!-- Body -->
+        <div class="strike-help__body slds-text-body_small">
+            <div class="slds-grid slds-wrap slds-grid_pull-padded">
+                <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-horizontal_small slds-text-color_weak strike-text-longform">
+                    <p>Description</p>
+                </div>
+                <div class="slds-col slds-size_1-of-1 slds-medium-size_1-of-2 slds-p-horizontal_small">
+                    <h4 class="slds-text-heading_small strike-help__links-header">Other Resources</h4>
+                    <div class="strike-help__columns">
+                        <ul>
+                            <li>
+                                <a href="#">Links to other resources</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /Body -->
+    </div>
+    <!-- /Help -->
+</aura:component>

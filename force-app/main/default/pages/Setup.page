@@ -1,0 +1,40 @@
+<apex:page sidebar="false" showHeader="true">
+    <apex:includeLightning />
+    <apex:slds />
+    <style type="text/css">
+        #lightning {
+            min-height: 100vh;
+            background-color: #f7f9fb;
+            padding-bottom: 2rem;
+            position: relative;
+        }
+        .noSidebarCell #setup-assistant {
+            min-height: calc(100vh - 120px);
+        }
+        .bodyDiv .outerNoSidebar,
+        .noSidebarCell,
+        .sidebarCell .fixed {
+            padding: 0;
+        }
+        .noSidebarCell #setup-assistant .slds-scope .strike-wizard__footer {
+            position: absolute;
+        }
+        #auraErrorMessage {
+            position: fixed;
+            top: 0;
+            z-index: 9999;
+        }
+    </style>
+
+    <div id="lightning"></div>
+
+    <script type="text/javascript">
+        $Lightning.use('c:strikeSetupLightningOut', function () {
+            $Lightning.createComponent('c:setupAssistant', {
+                // nothing
+            }, 'lightning', function (components, status, errorMessage) {
+                console.log(errorMessage);
+            });
+        });
+    </script>
+</apex:page>

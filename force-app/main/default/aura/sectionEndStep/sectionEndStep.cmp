@@ -1,0 +1,30 @@
+<aura:component extends="c:step">
+    <aura:attribute name="sectionTitle" type="String"/>
+
+    <h3 class="strike-wizard__step-title">You've completed {!v.sectionTitle}!</h3>
+    <!-- Success Animation -->
+    <div class="strike-animation">
+        <!-- Thumbs Up -->
+        <lightning:icon aura:id="thumbs-up" class="strike-wizard__complete-icon strike-animation__thumbs-up strike-icon-text-success" iconName="utility:like" size="large"/>
+        <!-- /Thumbs Up -->
+        <div class="strike-animation__stars">
+            <!-- Star -->
+            <lightning:icon aura:id="star" class="strike-animation__star" iconName="utility:favorite" size="medium"/>
+            <!-- /Star -->
+            <!-- Star -->
+            <lightning:icon aura:id="star" class="strike-animation__star" iconName="utility:favorite" size="medium"/>
+            <!-- /Star -->
+            <!-- Star -->
+            <lightning:icon aura:id="star" class="strike-animation__star" iconName="utility:favorite" size="medium"/>
+            <!-- /Star -->
+            <!-- Star -->
+            <lightning:icon aura:id="star" class="strike-animation__star" iconName="utility:favorite" size="medium"/>
+            <!-- /Star -->
+            <!-- Star -->
+            <lightning:icon aura:id="star" class="strike-animation__star" iconName="utility:favorite" size="medium"/>
+            <!-- /Star -->
+        </div>
+    </div>
+    <!-- /Success Animation -->
+    <p class="strike-wizard__step-description">You can reconfigure your settings at any time in the Setup Assistant's home screen.</p>
+</aura:component>
